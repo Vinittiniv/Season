@@ -1,3 +1,4 @@
 # Season
 Summer
 Winter
+Rainy
